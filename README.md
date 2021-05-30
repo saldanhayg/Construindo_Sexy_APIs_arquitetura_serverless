@@ -35,8 +35,8 @@ Nesse projeto deve-se desenvolver e entregar um projeto de “APIs para Gestão 
 
 ## 🚀 Tecnologia utilizadas :
 
-*[HTML](https://www.w3schools.com/html/)
-*[JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+*[HTML](https://www.w3schools.com/html/)<br>
+*[JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)<br>
 *[Node JS](https://pt.wikipedia.org/wiki/Node.js)
 <br>
 <br>
