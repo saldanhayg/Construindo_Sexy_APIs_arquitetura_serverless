@@ -1,0 +1,12 @@
+{
+  "name": "Saldanha",
+  "version": "",
+  "description": "Sexy APIs usando arquitetura serverless",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Helio",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
